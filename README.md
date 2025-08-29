@@ -1,0 +1,3 @@
+Machine learning, with its ability to analyze vast amounts of data and identify patterns, has emerged as a powerful tool in predicting transaction fraud. In this blog post, we will explore the key components of a machine learning pipeline for transaction fraud detection and delve into the various stages involved.
+
+We will be building a machine learning model using Classification algorithms to accurately detect if a transaction is fraudulent or not. Classification Algorithms are used to predict discrete categories or classes for given input data. As we need to determine whether a transaction is fraudulent or not, Classification algorithms are best suited.
